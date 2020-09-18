@@ -1,0 +1,25 @@
+.sidebar__row {
+   display: flex; 
+   align-items: center;
+   
+}
+.sidebar__row span {
+   margin-left: 10px; 
+   color: #B8BBBF;
+}
+
+.sidebar__row img, .sidebar__row svg{
+    width: 28px;
+    height: 28px;
+    color: #56C0DD;
+}
+
+.avatar  {
+    width: 28px !important;
+    height: 28px !important;
+}
+.avatar svg  {
+    color: #444;
+    width: 20px !important;
+    height: 20px !important;
+}
